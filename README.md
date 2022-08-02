@@ -5,6 +5,7 @@ Thanks for checking out my Github profile! Feel free to send a message, always o
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-aggarwal3/)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnavaggarwal093@gmail.com)
 [![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:arnava4@illinois.edu)
+[![](https://img.shields.io/badge/ShoeCyclist-0078D4?style=for-the-badge&logo=shoecyclist&logoColor=white)]
 
 ### About Me 🙋🏽‍♂️
 - 🧑‍🎓 I'm pursuing my B.S. and MCS in Computer Science at the [University of Illinois at Urbana-Champaign](https://illinois.edu/)
