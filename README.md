@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Arnav Aggarwal
 
+Thanks for checking out my Github profile! Feel free to send a message, always on the lookout for new opportunities and interesting projects!
+
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-aggarwal3/)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnavaggarwal093@gmail.com)
 [![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:arnava4@illinois.edu)
