@@ -11,6 +11,7 @@ Thanks for checking out my Github profile! Feel free to send a message, always o
 - 🕵️‍♂️ I'm currently learning about Big Data Analytics and Machine Learning
 - 📊 I'm really interested in Distributed Systems and Blockchain 
 - 🎾 I enjoy playing tennis, watching sports, singing, and spending time with my family!
+- 🏈 Huge football fan - Chicago Bears for life and Denver Broncos for #Russ3
 - 🔢 Fun Fact: I have a photographic memory when it comes to numbers - don't quiz me on sports stats!
 
 ### Skills 👨‍💻
