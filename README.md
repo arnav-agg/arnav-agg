@@ -5,11 +5,11 @@
 [![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:arnava4@illinois.edu)
 
 ### About Me 👨🏾
-- 🎓 I'm pursuing my B.S. and MCS in Computer Science at the [University of Illinois at Urbana-Champaign](https://illinois.edu/)
-- 🌱 I'm currently learning about Big Data Analytics and Machine Learning
-- 🤖 I'm really interested in Distributed Systems and Blockchain 
-- 🏏 I enjoy playing tennis, watching sports, singing, and spending time with my family!
-- 🤹🏽 Fun Fact: I have a photographic memory when it comes to numbers - don't quiz me on sports stats!
+- 🧑‍🎓 I'm pursuing my B.S. and MCS in Computer Science at the [University of Illinois at Urbana-Champaign](https://illinois.edu/)
+- 🕵️‍♂️ I'm currently learning about Big Data Analytics and Machine Learning
+- 📊 I'm really interested in Distributed Systems and Blockchain 
+- 🎾 I enjoy playing tennis, watching sports, singing, and spending time with my family!
+- 🔢 Fun Fact: I have a photographic memory when it comes to numbers - don't quiz me on sports stats!
 
 ### Skills 👨‍💻
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
