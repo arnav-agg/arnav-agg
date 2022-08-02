@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnavaggarwal093@gmail.com)
 [![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:arnava4@illinois.edu)
 
-### About Me 👨🏾
+### About Me 🙋🏽‍♂️
 - 🧑‍🎓 I'm pursuing my B.S. and MCS in Computer Science at the [University of Illinois at Urbana-Champaign](https://illinois.edu/)
 - 🕵️‍♂️ I'm currently learning about Big Data Analytics and Machine Learning
 - 📊 I'm really interested in Distributed Systems and Blockchain 
